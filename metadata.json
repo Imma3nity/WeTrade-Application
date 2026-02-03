@@ -1,0 +1,7 @@
+{
+  "name": "WeTrade.ng - Premium UK Used Gadgets & Quick Loans",
+  "description": "A high-end marketplace for verified UK used gadgets and instant device-backed loans, featuring an AI-powered gadget valuation advisor.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
